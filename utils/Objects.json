@@ -1,0 +1,18 @@
+{
+  "testsiteurl":"https://accounts.google.com/signin",
+  "locators":{
+    "loginpage":{
+
+      "username":"identifierId",
+      "next":"//span[text()='Next']"
+    }
+  },
+
+  "userdetails":{
+
+    "username1":"trainer@sujith.com",
+    "password1":"Raman123",
+    "username2":"java@Raju.com",
+    "password2":"Rahul123"
+  }
+}
